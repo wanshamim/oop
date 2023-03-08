@@ -1,0 +1,57 @@
+.container {
+  width: 500px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Gill Sans';
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#city-dropdown {
+  width: 300px;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: 'Georgia';
+  border: none;
+  border-radius: 5px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.2);
+  color: #131212;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-image: url("https://www.hohenberger-wallcoverings.com/media/2a/92/5c/1647005138/vliestapete-ash-wohnzimmer-julie-feels-home-monstera-plain-26952-closeup.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
+
+#weather-info {
+  margin-top: 100px;
+  padding: 100px;
+  border: 5px solid #484545;
+  background-image: url("https://i.pinimg.com/736x/a6/12/fd/a612fdb040bb9d7b724e8ef17922d454.jpg");
+  border-radius: 25px;
+  background-color: #ffffff;
+}
+
+#weather-info h3 {
+  font-size: 34px;
+  margin-bottom: 15px;
+}
+
+#weather-info p {
+  font-size: 24px;
+  margin-bottom: 8px;
+}
+
+#weather-info img{
+  height: 100px;
+  width: 100px;
+}
